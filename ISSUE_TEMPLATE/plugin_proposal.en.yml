@@ -1,0 +1,36 @@
+name: "Plugin Proposal"
+description: "Propose a new plugin for this project."
+title: "[Plugin] <short description>"
+labels: [plugin, proposal]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🔌 Plugin Proposal
+        
+        ## 📝 Description
+        Please describe the plugin you would like to propose and its purpose.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What is the plugin about? Why is it needed?
+      placeholder: Describe your plugin idea here.
+    validations:
+      required: true
+  - type: textarea
+    id: usecases
+    attributes:
+      label: Use Cases
+      description: What are the main use cases for this plugin?
+      placeholder: List the use cases here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Plugin idea is unique
+        - label: Clear use cases provided
+        - label: No conflicts with main

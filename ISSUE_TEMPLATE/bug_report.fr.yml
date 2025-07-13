@@ -1,0 +1,12 @@
+name: 🐛 Rapport de Bug
+description: Signaler un bug dans les projets PokeGenesis
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Décrire le bug
+      placeholder: Une description claire et concise du problème.
+    validations:
+      required: true

@@ -1,0 +1,26 @@
+name: "Demande de fonctionnalité"
+description: "Suggérez une nouvelle fonctionnalité pour ce projet."
+title: "[Fonctionnalité] <courte description>"
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📝 Description
+        Veuillez décrire la fonctionnalité que vous souhaitez voir ajoutée.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: De quoi s'agit-il ? Pourquoi est-ce nécessaire ?
+      placeholder: Décrivez votre fonctionnalité ici.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Liste de vérification
+      options:
+        - label: Code testé localement
+        - label: Documentation mise à jour
+        - label: Pas de conflits avec main

@@ -12,8 +12,8 @@
   <a href="https://github.com/PokeGenesis">
     <img src="https://img.shields.io/badge/👥_organization-PokeGenesis-purple?style=flat-square">
   </a>
-  <a href="https://github.com/PokeGenesis/pokemonstudio">
-    <img src="https://img.shields.io/badge/🎨_PokémonStudio-blue?style=flat-square">
+  <a href="https://github.com/PokeGenesis/Pokéforge">
+    <img src="https://img.shields.io/badge/🎨_PokéForge-blue?style=flat-square">
   </a>
   <a href="https://github.com/PokeGenesis/pokemonsdk">
     <img src="https://img.shields.io/badge/🛠_PokémonSDK-green?style=flat-square">
@@ -30,7 +30,7 @@
 **PokeGenesis** is an open-source community project dedicated to creating modern tools for building Pokémon fangames.
 
 ✨ Features:
-- 🛠 **PokémonStudio**: A user-friendly editor to design maps, dialogues, and events.  
+- 🛠 **PokéForge**: A user-friendly editor to design maps, dialogues, and events.  
 - 📦 **PokémonSDK**: A modular and extensible toolkit to handle battle mechanics, plugins, and more.  
 - 🎨 **Creative Assets**: HD sprites, tilesets, and music for your games.  
 - 🧩 **Plugins**: Add Randomizer, Nuzlocke mode, Fakemon manager, and more.
@@ -42,7 +42,7 @@
 **PokeGenesis** est un projet communautaire open-source dédié à la création d’outils modernes pour concevoir des fangames Pokémon.
 
 ✨ Fonctionnalités :
-- 🛠 **PokémonStudio** : Un éditeur visuel pour créer cartes, dialogues et événements.  
+- 🛠 **PokéForge** : Un éditeur visuel pour créer cartes, dialogues et événements.  
 - 📦 **PokémonSDK** : Une boîte à outils modulaire et extensible (mécaniques de combat, plugins, etc.).  
 - 🎨 **Assets créatifs** : Sprites HD, tilesets et musiques pour vos jeux.  
 - 🧩 **Plugins** : Ajoutez un Randomizer, le mode Nuzlocke, un gestionnaire de Fakemons, et bien plus.
@@ -53,7 +53,7 @@
 
 | Project         | Description                                           | Link                                              |
 |------------------|-------------------------------------------------------|----------------------------------------------------|
-| 🎨 PokémonStudio | Visual editor for maps, events, and dialogues        | [View Repository](https://github.com/PokeGenesis/pokemonstudio) |
+| 🎨 PokéForge    | Visual editor for maps, events, and dialogues        | [View Repository](https://github.com/PokeGenesis/pokemonstudio) |
 | 🛠 PokémonSDK    | Modular toolkit for game logic and plugins            | [View Repository](https://github.com/PokeGenesis/pokemonsdk)     |
 
 ---
